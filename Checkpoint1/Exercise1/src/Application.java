@@ -8,6 +8,7 @@ public class Application implements Runnable {
 
     public void run() {
         SaxionApp.printLine("Hoi de git is geupdate");
+        SaxionApp.printLine("I LIKE PENIS");
     }
 
 }
