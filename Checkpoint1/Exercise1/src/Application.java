@@ -7,7 +7,7 @@ public class Application implements Runnable {
     }
 
     public void run() {
-        SaxionApp.printLine("Hoi");
+        SaxionApp.printLine("Hoi de git is geupdate");
     }
 
 }
